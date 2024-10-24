@@ -1,17 +1,17 @@
 /* General Styling */
 body {
     font-family: 'Orbitron', sans-serif;
-    background-color: #121212;
-    color: #fff;
+    background-color: #1d1f21; /* Darker theme */
+    color: #eaeaea; /* Light gray text */
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #1c1c1c;
+    background-color: #2e3440; /* Cool dark gray */
     padding: 20px;
     text-align: center;
-    color: #00FF00;
+    color: #88c0d0; /* Light blue for header text */
 }
 
 h1 {
@@ -25,7 +25,7 @@ p {
 
 nav {
     text-align: center;
-    background-color: #1c1c1c;
+    background-color: #3b4252; /* Another darker accent */
     padding: 10px 0;
 }
 
@@ -40,13 +40,13 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #FF00FF;
+    color: #d08770; /* Muted orange for links */
     text-decoration: none;
     font-size: 1.2rem;
 }
 
 nav ul li a:hover {
-    color: #00FF00;
+    color: #a3be8c; /* Soft green on hover */
     transition: 0.3s;
 }
 
@@ -58,6 +58,7 @@ nav ul li a:hover {
 h2 {
     font-size: 2.5rem;
     margin-bottom: 20px;
+    color: #88c0d0; /* Consistent accent */
 }
 
 ul {
@@ -71,19 +72,27 @@ ul li {
 }
 
 .project {
-    background-color: #1c1c1c;
+    background-color: #4c566a;
     padding: 20px;
     border-radius: 10px;
     margin: 20px 0;
 }
 
 footer {
-    background-color: #000;
+    background-color: #2e3440;
     text-align: center;
     padding: 20px 0;
 }
 
 footer p {
     margin: 0;
-    color: #999;
+    color: #888;
+}
+
+/* Image Styling */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
 }
