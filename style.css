@@ -129,4 +129,14 @@ img {
     text-align: center;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
+.project a {
+    color: #88c0d0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project a:hover {
+    color: #d08770;
+    text-decoration: underline;
+}
 
