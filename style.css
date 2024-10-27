@@ -1,6 +1,6 @@
 /* General Styling */
 body {
-    font-family: 'Tiny5', sans-serif;
+    font-family: 'Orbitron', sans-serif;
     background-color: #1d1f21; /* Darker theme */
     color: #eaeaea; /* Light gray text */
     margin: 0;
@@ -95,4 +95,15 @@ img {
     height: auto;
     border-radius: 10px;
     margin: 20px 0;
+}
+
+/* About Me Box Styling */
+.about-box p {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #3b4252; /* Box background color */
+    border-radius: 10px;
+    color: #eaeaea;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
