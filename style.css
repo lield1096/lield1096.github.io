@@ -72,11 +72,16 @@ ul li {
 }
 
 .project {
+    max-width: 800px; /* Width similar to the About section */
+    margin: 0 auto; /* Centers the project section */
     background-color: #4c566a;
     padding: 20px;
     border-radius: 10px;
-    margin: 20px 0;
+    color: #eaeaea;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: justify; /* Optional: aligns text to both sides */
 }
+
 
 footer {
     background-color: #2e3440;
