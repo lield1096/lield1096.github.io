@@ -100,7 +100,7 @@ img {
 /* About Me Box Styling */
 .about-box p {
     max-width: 600px;
-    margin: 0 auto;
+    margin: 30 auto;
     padding: 20px;
     background-color: #3b4252; /* Box background color */
     border-radius: 10px;
