@@ -121,7 +121,10 @@ img {
     gap: 15px; /* Space between items */
     list-style: none;
     padding: 0;
+    max-width: 600px; /* Limits width */
+    margin: 0 auto; /* Centers the list */
 }
+
 
 .skills-list li {
     background-color: #4c566a; /* Box color */
