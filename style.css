@@ -49,6 +49,11 @@ nav ul li a:hover {
     text-align: center;
 }
 
+h1 {
+    font-size: 4rem; /* Adjust as needed */
+    margin: 0;
+}
+
 /* Title styling */
 h2 {
     font-size: 2.5rem;
