@@ -72,7 +72,7 @@ ul li {
 }
 
 .project {
-    max-width: 800px; /* Width similar to the About section */
+    max-width: 900px; /* Width similar to the About section */
     margin: 0 auto; /* Centers the project section */
     background-color: #4c566a;
     padding: 20px;
@@ -104,7 +104,7 @@ img {
 
 /* About Me Box Styling */
 .about-box p {
-    max-width: 800px; /* Increased width */
+    max-width: 900px; /* Increased width */
     margin: 0 auto; /* Centers the box */
     padding: 20px;
     background-color: #3b4252;
@@ -121,7 +121,7 @@ img {
     gap: 15px; /* Space between items */
     list-style: none;
     padding: 0;
-    max-width: 600px; /* Limits width */
+    max-width: 900px; /* Limits width */
     margin: 0 auto; /* Centers the list */
 }
 
