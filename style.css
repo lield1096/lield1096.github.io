@@ -94,14 +94,6 @@ footer p {
     color: #888;
 }
 
-/* Image Styling */
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
-    margin: 20px 0;
-}
-
 /* About Me Box Styling */
 .about-box p {
     max-width: 900px; /* Increased width */
